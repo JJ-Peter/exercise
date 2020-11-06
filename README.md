@@ -1,2 +1,2 @@
 # exercise
-exercise daily
+作业和练习
